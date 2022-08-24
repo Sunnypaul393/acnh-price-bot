@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "acnh-price-lookup-360415",
+  "private_key_id": "b9a2090f29d92ee6bb3e618d874ce9ab5d087cbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmEDxGb/j5/keN\ndLW36O0bteFuAlj/PogtV33qI2f9KY6Bv0GEbWODBjVzyHhEmvCbo/e31QwKTgLB\nYp/SS7EyGMFl4wPvf7AnWf5Vl0eJ0HXx9GolwvQ39Uq39JBKc2KKcBojDsO8xREl\n1nzod9HdAhUGK0JddznYQmjTaewH30sihYZq/wV/yZ/KpYMDzud0678mVtU+eFM8\nJrlI7Lbah8P8vBTqo7Az1q/aMA61aawd6lBBi6CtaZriXdla7SlRRaA4QcDtlGFc\nn0UnAl8JMa3H24jH0tDd8evMq7+mKBvrITBcYYgNvB+j3RgAMCcCH4mVechs/yuQ\ncgM8tTZPAgMBAAECggEATwNRkpgraFNvGySpY9iNnM409SFj1AqeQ6ip7hIro962\nghCMrWRY4Vo+a5k6dDYefoeNUagqYurMT9RLxAUkyffSaVaTJEzmdUrSA0qIDNAl\nllqbeN0iU0/AXfedAfeVrtX48a5QPsyrRIwiAYAlWBlqBHXnzU3xtW6frtvqpLF5\nqY2QYyFfyhnaiHf7jsA2B48tGjGAiAqu87OzLFusF1XPn59K9JJvv39bQejSlR5p\nOZxkxGGu1mR/1b+outTd/sIokBtKqLlYNY36wkDyRk/z1EhVqdFraYxt2JhUGswi\npcrZORAi0UslRt5au2BnGCj25Cq0T69IGgm7SAzoRQKBgQDp770HvcRSTT0HYoP1\nfQDqBQ5+Ijq1MsJxVOQn0e+gktGXv7h7EequK8OYbkzU/QNkpZ4j6xDAcPofl79f\nB4kORsG9WzZwQ4twwfWvx5BPIS/UBNIyY0fyZcwWMV38VD8VINZeRmvvZ0z68sSi\nhsTe5QVfLtzf3YucLzSYfw3LcwKBgQC1ub26bwjJFKkWC74h/EFG51WwfjRDmP5+\nVBU5CH6+ZzBDoey4RNNCkZyDGirRig4+TsN3OYhqhB6+xw3Uqmz8YojZtibbSAPI\n4dbafiX1KkD5XxszyZddz43T9NAj3YoX/on+kilVwwyqwKO8dkLl9BgXnaqm1peS\n5jGc4z6qtQKBgDyA6szzwbDflScxzZtSZ0gfYq4wwCpZJH0XTaMW4vkOv/KVfWsn\nKSE+5GmqLWjwv03qn8n+Y+jBz48YOkCjvEja+AS3cI78iTXylE6QOLyegrY9QPgT\nQWpp9azPu9UlHOOkCI19fTD/8KL+4uh+HrDfXtJNVob3z8HnW50NT04NAoGAbqpM\nFgqkCQAh8CD6imu5vNoH3tEcNsYmxPujaPX5aS4hwC4NoDGZjYJrE5ON28j834jL\nlAFfR65porhJfebDM/c1a493njX+yAhv9OK5btFqe/Ik+KadHS3WKut9DTpObEo/\n8t1DesyrHBjwHUbPeoXpXghP8gXgjD7Om8HvWbkCgYACACGzoXOePNYRpqGywwRn\nZjprLbuEa6zo7lJm30bsoi9ScCO/H3AH7ywQDoPvRP4TRw0FcrpCIaq1THTrSx2o\nZyUdRuS04dWob4Oh+XDPBOWaP4ZxjPg+nuYmFKhT00sogyk0A4Sa47AH123axUOp\nCYUWy35EhTfjdkegfaAx5Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "acnh-service@acnh-price-lookup-360415.iam.gserviceaccount.com",
+  "client_id": "100829283829655063990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acnh-service%40acnh-price-lookup-360415.iam.gserviceaccount.com"
+}
